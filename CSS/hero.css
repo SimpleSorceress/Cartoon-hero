@@ -1,0 +1,78 @@
+html,body{
+
+	font-family: raleway, sans-serif; 
+	padding: 0;
+	margin: 0;
+}
+
+header{
+	background-color: #dddddd;
+	padding: 40px;
+}
+
+header h1{
+	font-size: 100px;
+	color: black;
+	text-align: center;
+}
+
+.center{
+	  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  
+}
+
+header img{
+	border-radius: 200px;
+	width: 400px;
+	border: 10px solid: #a6a1a1;
+ 
+}
+
+.content{
+	max-width: 980px;
+	margin: 0 auto;
+	padding: 0 20px;
+}
+
+img.big-image{
+	max-width: 100%
+}
+
+p.caption{
+	font-size: 16px;
+	color: black;
+	font-style: italic;
+}
+
+ul{
+	list-style: none;
+	padding: 0;
+	margin: 0;
+}
+
+a{
+	color: purple;
+	text-decoration: none;
+}
+
+footer{
+	margin-top: 20px; 
+	padding: 40px 20px;
+	background-color: #dddddd;
+}
+
+footer ul{
+	text-align: center;
+}
+	
+footer ul li{
+	display: inline-block;
+	margin: 0 5px;
+}
+
+/*<header>
+			<img src="img/profile.jpg">
+			<h1>Simple Soceress</h1>
+		</header>
